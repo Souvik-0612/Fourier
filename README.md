@@ -3,5 +3,4 @@
 
 > He changed the view.
 
-# Bugs:
-There have some bugs in the solution. Please check all answers. If you find the bugs let me know. Thanks 👍🙏
+
